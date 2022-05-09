@@ -6,7 +6,7 @@ module.exports = {
       summary: `책 만듭니다. 그림도 그려요.`, 
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://www.instagram.com/jickpackguree/`,
     social: {
       twitter: `kylemathews`,
     },

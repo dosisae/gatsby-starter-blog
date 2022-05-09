@@ -3,7 +3,7 @@ module.exports = {
     title: `도시새입니다만`,
     author: {
       name: `도시새`,
-      summary: `책 만듭니다. 그림도 그려요.`,
+      summary: `책 만듭니다. 그림도 그려요.`, 
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
